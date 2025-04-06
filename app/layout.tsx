@@ -1,3 +1,4 @@
+import '../styles/globals.css';
 export const metadata = {
   title: 'Stat Quo',
   description: 'Be Bold. Stay Stat Quo.',
