@@ -57,6 +57,12 @@ export default function Home() {
           placeholder="Enter your email"
           className="w-full p-3 rounded-lg bg-zinc-900 text-white mb-4 border border-zinc-700"
         />
+        <input
+    type="hidden"
+    name="_redirect"
+    value="https://stat-quo.com/thank-you"
+  />
+
         <button
           type="submit"
           className="w-full bg-electricBlue text-black font-bold py-3 rounded-lg hover:opacity-90 transition"
