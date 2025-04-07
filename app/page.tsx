@@ -49,11 +49,7 @@ export default function Home() {
         ))}
       </div>
 
-      <form
-        action="https://formspree.io/f/mwkgnzdo"
-        method="POST"
-        className="w-full max-w-md"
-      >
+      <form action="https://formspree.io/f/xpwpodor" method="POST" className="space-y-4">
         <input
           type="email"
           name="email"
